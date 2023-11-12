@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aec242b9c8dce742af6a60a1668d811, type: 3}
+  m_Name: Big Flock Behaviour
+  m_EditorClassIdentifier: 
+  behaviours:
+  - {fileID: 11400000, guid: 62f6afcf6bc0c4942b6ee414e2bbf940, type: 2}
+  - {fileID: 11400000, guid: 279bb2848d1245447bb40f83277502a9, type: 2}
+  - {fileID: 11400000, guid: 4356181a16fbe3746948e7c57c405f36, type: 2}
+  - {fileID: 11400000, guid: 38fb85db9890e9949a1c018042aa2f69, type: 2}
+  weights:
+  - 3
+  - 3
+  - 1
+  - 3
