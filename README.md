@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/AngadBasandrai/boids-simulation" target="_blank"><img src="Resources/banner.png" width=160 title="Boids Simulation" alt="Boids Simulation"></a>
+<p align="center"><a href="https://github.com/AngadBasandrai/boids-simulation" target="_blank"><img src="Resources/banner.png" width=240 title="Boids Simulation" alt="Boids Simulation"></a>
 </p>
 
 <h2 align="center"> &nbsp;&nbsp;Boids Simulation </h2>
