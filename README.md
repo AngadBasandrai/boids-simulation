@@ -22,7 +22,7 @@
 
 
 ## Dependencies
- - Unity 2019.4.16f1 (ony required to build the project)
+ - Unity 2019.4.16f1 (only required to build the project)
 ## Instructions
 
 #### Directions to Install
